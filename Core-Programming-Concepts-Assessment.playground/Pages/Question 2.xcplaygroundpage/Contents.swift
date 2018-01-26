@@ -24,6 +24,15 @@
  
  */
 // Answer question 2 below
+var sellingPrice = Double ()
+print("the reason for using Double is its capability of supporting decimal numbers.")
+var copiesSold = Int ()
+print("because selling a half book or a quarter bokk or... is not possible")
+let bookName = String()
+let authorName = String()
+let yearPublished = String()
+print("the data type which supports  characters and numbers togheter is String; and the reason for clasifying these datas as constants is, the year published never changes after one point ")
+
 
 /*:
  ## Now share your understanding
