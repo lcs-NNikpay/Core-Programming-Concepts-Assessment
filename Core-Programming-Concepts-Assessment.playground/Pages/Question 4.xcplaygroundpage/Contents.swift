@@ -23,7 +23,13 @@
  
  */
 // Answer question 4 below
-
+var numberOfAppsUsed = Int()
+("you can not use a half of an app or a quarter of an App and...")
+var numberOfHoursUsed = Double()
+print("The number of hours used could an hour and half or quarter of hour which needs decimals and Doubble supports decimals" )
+var mostPopularAppOfTheDay = String()
+let Date = String ()
+print("the only datatype which you can put characters and numbers (for date), and only characters for mostPopularOfTheDay is String")
 /*:
  ## Now share your understanding
  
